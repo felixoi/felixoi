@@ -6,6 +6,6 @@
 <p align="center">A lot knowledge in HTML5, CSS3 and JavaScript frameworks like VueJS I gained in various projects and contributions.</p>
 <p align="center">Furthermore, I used other programming languages like Python or C# at work.</p>
 
-<p align="center">The most of my contributions are currently going to the [SpongePowered](https://www.spongepowered.org) organization, where I help maintaining various web-projects like the the plugin repository [Ore](https://ore.spongepowered.org).</p>
+<p align="center">The most of my contributions are currently going to the <a href="https://github.com/SpongePowered">SpongePowered</a> organization, where I help maintaining various web-projects like the the plugin repository <a href="https://github.com/SpongePowered/Ore">Ore</a>.</p>
 
 <p align="center">If you have any questions about me or my work, go ahead and write to felix@felixoi.com!</p>
