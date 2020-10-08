@@ -8,4 +8,4 @@
 
 <p align="center">The most of my contributions are currently going to the <a href="https://github.com/SpongePowered">SpongePowered</a> organization, where I help maintaining various web-projects like the the plugin repository <a href="https://github.com/SpongePowered/Ore">Ore</a>.</p>
 
-<p align="center">If you have any questions about me or my work, go ahead and write to felix@felixoi.com!</p>
+<p align="center">If you have any questions about me or my work, go ahead and write to <a href="mailto:felix@felixoi.com">felix@felixoi.com</a>!</p>
