@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm felixoi</h1>
+<p align="center">formerly known as Felix Kleinekathöfer</p>
 <h3 align="center">I'm a computer science student from germany who likes coding.</h3>
 
 <p align="center">I started programming in Java when I was a young teenager</div>
